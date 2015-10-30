@@ -1,0 +1,1 @@
+This project serves as a simple way to test AR projects without using the webcam.
